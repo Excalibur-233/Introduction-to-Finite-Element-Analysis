@@ -11,7 +11,9 @@ Lecture notes by Prof. Dennis M. Kochmann (ETH Zurich) can be found at: https://
 | 05     | Beam Elements                   |
 
 ---
-*Coded by [Yihong Zhu] (zyh03@stanford.edu)*
+*Coded by Yihong Zhu - Stanford University (zyh03@stanford.edu)*
+
+*Based on lecture notes by Prof. Dennis M. Kochmann, ETH Zurich*
 
 ## License
 
