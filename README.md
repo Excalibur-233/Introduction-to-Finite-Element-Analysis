@@ -1,16 +1,17 @@
-Lecture notes: [IntroToFEA_red.pdf](IntroToFEA_red.pdf) by Prof. Dennis M. Kochmann (ETH Zurich)
-Available at: https://ethz.ch/content/dam/ethz/special-interest/mavt/mechanical-systems/mm-dam/documents/Notes/IntroToFEA_red.pdf
+# Lecture Notes source
+Lecture notes by Prof. Dennis M. Kochmann (ETH Zurich) can be found at: https://ethz.ch/content/dam/ethz/special-interest/mavt/mechanical-systems/mm-dam/documents/Notes/IntroToFEA_red.pdf
 
-| Folder | Topic                    |
-|--------|--------------------------|
-| 01     | Example 3.2              |
-| 02     | Example 5.1              |
-| 03     | Rayleigh Ritz Method     |
-| 04     | Bar Element              |
-| 05     | Beam Elements            |
+# Code content
+| Folder | Topic                           |
+|--------|---------------------------------|
+| 01     | Example 3.2 from lecture notes  |
+| 02     | Example 5.1 from lecture notes  |
+| 03     | Rayleigh Ritz Method            |
+| 04     | Bar Element                     |
+| 05     | Beam Elements                   |
 
 ---
-*Examples are coded by [Yihong Zhu] (zyh03@stanford.edu)*
+*Coded by [Yihong Zhu] (zyh03@stanford.edu)*
 
 ## License
 
