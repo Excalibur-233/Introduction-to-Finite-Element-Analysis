@@ -11,3 +11,8 @@ Available at: https://ethz.ch/content/dam/ethz/special-interest/mavt/mechanical-
 
 ---
 *Examples are coded by [Yihong Zhu] (zyh03@stanford.edu)*
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.  
+Essentially, you are free to use, modify, and distribute this code for any purpose.
